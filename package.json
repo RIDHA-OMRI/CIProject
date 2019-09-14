@@ -1,0 +1,29 @@
+{
+  "name": "ciproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "npm run testInternal -- --coverage",
+    "testInternal": "react-scripts test --env=jsdom",
+    "deploy": "echo deploying.."
+  },
+  "dependencies": {
+    "nodejs": "0.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "repository": {
+    "type": "git",
+   "url": "git+https://github.com/OscarLjungberg/CIProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarLjungberg/CIProject/issues"
+  },
+  "homepage": "https://github.com/OscarLjungberg/CIProject#readme"
+}
