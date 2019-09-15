@@ -1,5 +1,5 @@
 TN:
-SF:C:\Users\RIDHA OMRI\Documents\Oscar Cloud Exam\CIProject-master\src\App.js
+SF:C:\Oscar Cloud Exam\CIProject\src\App.js
 FN:6,(anonymous_0)
 FNF:1
 FNH:1
@@ -11,7 +11,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\RIDHA OMRI\Documents\Oscar Cloud Exam\CIProject-master\src\index.js
+SF:C:\Oscar Cloud Exam\CIProject\src\index.js
 FN:5,_interopRequireDefault
 FNF:1
 FNH:0
@@ -33,7 +33,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:C:\Users\RIDHA OMRI\Documents\Oscar Cloud Exam\CIProject-master\src\registerServiceWorker.js
+SF:C:\Oscar Cloud Exam\CIProject\src\registerServiceWorker.js
 FN:111,register
 FN:115,(anonymous_1)
 FN:117,registerValidSW
