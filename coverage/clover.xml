@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1568560715583" clover="3.2.0">
-  <project timestamp="1568560715583" name="All files">
+<coverage generated="1568566339104" clover="3.2.0">
+  <project timestamp="1568566339105" name="All files">
     <metrics statements="22" coveredstatements="1" conditionals="25" coveredconditionals="0" methods="16" coveredmethods="1" elements="63" coveredelements="2" complexity="0" loc="22" ncloc="22" packages="1" files="3" classes="3">
       <file name="App.js" path="C:\Oscar Cloud Exam\CIProject\src\App.js">
         <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
